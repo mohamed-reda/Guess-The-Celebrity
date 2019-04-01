@@ -1,5 +1,5 @@
 # Guess-The-Celebrity
-Guess The name of the famous man or woman
+Download photo and you should guess his name
 
 ![Screenshot_٢٠١٩٠٣٣٠-٠٣٥٨٢٢](https://user-images.githubusercontent.com/15935347/55311925-8ec13400-5464-11e9-80a6-def44fc3a1b9.png)
 ![Screenshot_٢٠١٩٠٣٣٠-٠٣٥٨٢٦](https://user-images.githubusercontent.com/15935347/55311926-8ec13400-5464-11e9-82f7-46059d1344e3.png)
